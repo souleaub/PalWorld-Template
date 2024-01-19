@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "DefaultPalWorldSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Pal/Saved/Config/LinuxServer/PalWorldSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
